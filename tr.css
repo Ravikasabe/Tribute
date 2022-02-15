@@ -1,0 +1,36 @@
+body{
+    background-color: rgba(186, 204, 28, 0.411);
+}
+.A{
+    background-color: rgba(0, 0, 0, 0.877);
+
+    
+}
+img{
+    float: right; 
+}
+h1{
+    color: antiquewhite;
+    font-size: xx-large;
+    /* margin-left: 10%; */
+    text-align: end;
+}
+h2{
+    font-size: x-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.B{
+    background-color: rgba(22, 255, 255, 0.212);
+    height: 300px;
+    font-size: large;
+    color: black;
+    text-align: center;
+
+}
+.C{
+    background-color: rgba(253, 0, 240, 0.158);
+    height: 100px;
+    text-align: center;
+    color: rgb(0, 0, 0);
+
+}
